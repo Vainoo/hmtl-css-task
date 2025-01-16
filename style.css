@@ -1,0 +1,65 @@
+body {
+    background-color: #2d2d30;
+    color: #007acc;
+    line-height: 1.5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(images/tausta.jpg);
+    background-size: cover;
+    
+}
+
+.container{
+    max-width: 700px;
+    width: 96%;
+    margin: 10px auto;
+}
+
+.Logo{
+    width: 150px;
+    height: auto;
+}
+
+nav li{
+    display: inline;
+}
+
+nav ul{
+    padding-left: 0;
+}
+
+nav{
+    background-color: #3e3e42;
+    padding: 10px 25px 10px 25px;
+}
+
+nav a, a:visited, a:active{
+    color: #007acc;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 24px;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+
+footer {
+    border-top: 1px solid dotted #303033;
+    padding-top: 14px;
+    font-size: 10px;
+}
+
+article img{
+    width: 100%;
+    height: auto;
+}
+
+article li{
+    font-size: 20px;
+    color: #0b86d8;
+}
+.btn{
+    background-color: #000000;
+    
+}
